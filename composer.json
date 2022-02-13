@@ -1,0 +1,22 @@
+{
+  "name": "vendor_name/batch_3_day_19",
+  "type": "project",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "keywords": [],
+  "authors": [
+
+  ],
+  "require": {
+    
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
